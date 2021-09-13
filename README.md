@@ -1,6 +1,6 @@
 # django-react-crud
 
-## This app allows users to perform CRUD operations on articles
+## This app allows users to perform CRUD operations on articles, which are stored in local database.
 
 I built the backend API with Django REST Framework, and the frontend app with React.js.<br>
 
